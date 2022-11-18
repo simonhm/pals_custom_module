@@ -1,0 +1,7 @@
+pals_custom_module.welcome:
+  path: '/welcome/page'
+  defaults:
+    _controller: '\Drupal\pals_custom_module\Controller\WelcomeController::welcome'
+    _title: 'Welcome to PALS Custom Module'
+  requirements:
+    _permission: 'access content'
