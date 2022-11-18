@@ -1,6 +1,6 @@
-name: PALS Customize Module
+name: PALS Custom Module
 type: module
-description: 'PALS Customize Module.'
+description: 'PALS Custom Module.'
 package: Custom
 version: 1.0
 core_version_requirement: ^8 || ^9
